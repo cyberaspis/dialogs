@@ -1,2 +1,3 @@
 # dialogs
 Synthetic dialogues generated using generative artificial intelligence technologies for the training and evaluation of the vishing attack detection models
+The pilot evaluation of the platform with end users has produced highly interesting results, based on realistic voice-phishing attack scenarios derived from dialogues generated through a dedicated methodology for training the models. Thousands of synthetic dialogues were generated using generative artificial intelligence technologies for the training and evaluation of the vishing attack detection models.
